@@ -1,0 +1,6 @@
+framework module Pods_AuthenticatePro {
+  umbrella header "Pods-AuthenticatePro-umbrella.h"
+
+  export *
+  module * { export * }
+}

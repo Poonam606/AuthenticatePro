@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AuthenticatePro/Controller/Profile/ProfileViewController.swift"
+            timestampString = "564335762.972684"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "5"
+            endingLineNumber = "5"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AuthenticatePro.ProfileViewController.__deallocating_deinit"
+                  moduleName = "AuthenticatePro"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/LoveVerma/Documents/Projects/AuthenticatePro/AuthenticatePro/Controller/Profile/ProfileViewController.swift"
+                  timestampString = "567175727.116771"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AuthenticatePro.ProfileViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; AuthenticatePro.ProfileViewController"
+                  moduleName = "AuthenticatePro"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/LoveVerma/Documents/Projects/AuthenticatePro/AuthenticatePro/Controller/Profile/ProfileViewController.swift"
+                  timestampString = "567175727.1199729"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AuthenticatePro.ProfileViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; AuthenticatePro.ProfileViewController"
+                  moduleName = "AuthenticatePro"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/LoveVerma/Documents/Projects/AuthenticatePro/AuthenticatePro/Controller/Profile/ProfileViewController.swift"
+                  timestampString = "567175727.122898"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "65">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AuthenticatePro.ProfileViewController.__allocating_init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;AuthenticatePro.ProfileViewController&gt;"
+                  moduleName = "AuthenticatePro"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/LoveVerma/Documents/Projects/AuthenticatePro/AuthenticatePro/Controller/Profile/ProfileViewController.swift"
+                  timestampString = "567175727.125839"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AuthenticatePro.ProfileViewController.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;AuthenticatePro.ProfileViewController&gt;"
+                  moduleName = "AuthenticatePro"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/LoveVerma/Documents/Projects/AuthenticatePro/AuthenticatePro/Controller/Profile/ProfileViewController.swift"
+                  timestampString = "567175727.128734"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "36">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AuthenticatePro/Controller/Profile/ProfileViewController.swift"
+            timestampString = "564335762.973205"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "181"
+            endingLineNumber = "181"
+            landmarkName = "menuAction(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AuthenticatePro/Controller/Expert/SignUp/ExpertSignUpViewController.swift"
+            timestampString = "557575015.604051"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "211"
+            endingLineNumber = "211"
+            landmarkName = "backAction(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AuthenticatePro/Controller/Expert/Profile/ExpertProfileViewController.swift"
+            timestampString = "558292495.456408"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "ExpertProfileViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AuthenticatePro.ExpertProfileViewController.__deallocating_deinit"
+                  moduleName = "AuthenticatePro"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/LoveVerma/Documents/Projects/AuthenticatePro/AuthenticatePro/Controller/Expert/Profile/ExpertProfileViewController.swift"
+                  timestampString = "567175727.150295"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AuthenticatePro.ExpertProfileViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; AuthenticatePro.ExpertProfileViewController"
+                  moduleName = "AuthenticatePro"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/LoveVerma/Documents/Projects/AuthenticatePro/AuthenticatePro/Controller/Expert/Profile/ExpertProfileViewController.swift"
+                  timestampString = "567175727.153231"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AuthenticatePro.ExpertProfileViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; AuthenticatePro.ExpertProfileViewController"
+                  moduleName = "AuthenticatePro"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/LoveVerma/Documents/Projects/AuthenticatePro/AuthenticatePro/Controller/Expert/Profile/ExpertProfileViewController.swift"
+                  timestampString = "567175727.1563849"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "79">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AuthenticatePro.ExpertProfileViewController.__allocating_init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;AuthenticatePro.ExpertProfileViewController&gt;"
+                  moduleName = "AuthenticatePro"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/LoveVerma/Documents/Projects/AuthenticatePro/AuthenticatePro/Controller/Expert/Profile/ExpertProfileViewController.swift"
+                  timestampString = "567175727.15932"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AuthenticatePro.ExpertProfileViewController.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;AuthenticatePro.ExpertProfileViewController&gt;"
+                  moduleName = "AuthenticatePro"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/LoveVerma/Documents/Projects/AuthenticatePro/AuthenticatePro/Controller/Expert/Profile/ExpertProfileViewController.swift"
+                  timestampString = "567175727.1622781"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "49">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

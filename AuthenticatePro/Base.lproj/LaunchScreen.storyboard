@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="13771" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" launchScreen="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="9xH-yq-be1">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="13772"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="xAs-wm-dKk">
+            <objects>
+                <viewController id="9xH-yq-be1" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="Q18-od-RNq">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="background-image" translatesAutoresizingMaskIntoConstraints="NO" id="aCA-DN-eTj">
+                                <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                            </imageView>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="launch-screen-logo" translatesAutoresizingMaskIntoConstraints="NO" id="wZ9-Ws-SlD">
+                                <rect key="frame" x="73" y="223" width="229" height="220"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="220" id="7sh-lv-5lx"/>
+                                    <constraint firstAttribute="width" constant="229" id="Ibb-lB-etP"/>
+                                </constraints>
+                            </imageView>
+                        </subviews>
+                        <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstItem="aCA-DN-eTj" firstAttribute="trailing" secondItem="pSa-fm-NKt" secondAttribute="trailing" id="55V-wc-c7t"/>
+                            <constraint firstItem="wZ9-Ws-SlD" firstAttribute="centerY" secondItem="Q18-od-RNq" secondAttribute="centerY" constant="-0.5" id="YLl-oV-kxa"/>
+                            <constraint firstItem="wZ9-Ws-SlD" firstAttribute="centerX" secondItem="Q18-od-RNq" secondAttribute="centerX" id="hOx-aZ-GKT"/>
+                            <constraint firstItem="aCA-DN-eTj" firstAttribute="bottom" secondItem="Q18-od-RNq" secondAttribute="bottom" id="kRr-Nw-fe7"/>
+                            <constraint firstItem="aCA-DN-eTj" firstAttribute="leading" secondItem="pSa-fm-NKt" secondAttribute="leading" id="pnk-Ub-LEZ"/>
+                            <constraint firstItem="aCA-DN-eTj" firstAttribute="top" secondItem="Q18-od-RNq" secondAttribute="top" id="sfy-L7-0CB"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="pSa-fm-NKt"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="QDr-Z9-DQc" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="52" y="374.66266866566718"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="background-image" width="375" height="512"/>
+        <image name="launch-screen-logo" width="250" height="252"/>
+    </resources>
+</document>
